@@ -5,3 +5,6 @@ git
 I have completed my bachelor in bsc
 I have completed my master in 2022
 
+I have started fullstack webdevelopment job in 2021
+
+
